@@ -1,7 +1,7 @@
 !/usr/bin/env python
  coding: utf-8
 
- In[1]:
+  In[1]:
 
 
 import numpy
@@ -13,7 +13,7 @@ import numpy
 numpy.array([3,5,8,17])
 
 
-# In[5]:
+ In[5]:
 
 
 numpy.ones(5)
